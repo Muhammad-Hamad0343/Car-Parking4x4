@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742912127294",
+    "project_id": "x4-offroad-game",
+    "storage_bucket": "x4-offroad-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742912127294:android:559ddf8aa94a967527bc6f",
+        "android_client_info": {
+          "package_name": "com.offroad.racing.jeep.driving.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6qH5ZIV8XG81lsBtG4O56KSPQmr6Kb6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
